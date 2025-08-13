@@ -17,8 +17,6 @@ this project.
 - `README.md` — This file
 - `video_link.txt` — Public link to the video
 
-> Note: If the instructor requires a `/sql/` folder split into `create_tables.sql`, `load_data.sql`, `queries.sql`, `triggers.sql`, you can split `medicine_inventory_project.sql` later into those files.
-
 ## How to Run
 1. Open MySQL client (CLI or Workbench).
 2. Execute the script:
