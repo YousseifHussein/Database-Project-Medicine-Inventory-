@@ -15,7 +15,7 @@ this project.
 - `Database Project Presentation.pptx` — Slides
 - `medicine_inventory_project.sql` — Full SQL script (DDL + DML + trigger + queries)
 - `README.md` — This file
-- `video_link.txt` — Public link to the video walkthrough
+- `video_link.txt` — Public link to the video
 
 > Note: If the instructor requires a `/sql/` folder split into `create_tables.sql`, `load_data.sql`, `queries.sql`, `triggers.sql`, you can split `medicine_inventory_project.sql` later into those files.
 
