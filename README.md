@@ -22,3 +22,6 @@ this project.
 2. Execute the script:
    ```sql
    SOURCE /absolute/or/relative/path/to/medicine_inventory_project.sql;
+
+## Vedio Link:
+https://drive.google.com/drive/folders/1176-0c11iqlLr8O_Sgqnexry6nwk7Ied?usp=drive_link
